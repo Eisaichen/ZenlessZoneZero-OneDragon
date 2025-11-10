@@ -1,7 +1,7 @@
 <!-- markdownlint-restore -->
 
-Fix stupid commit from origin
-c5030438b37833b7ec43029fd3a2a57c5ebdd6ab
+Fix stupid commit from origin\
+[c5030438b37833b7ec43029fd3a2a57c5ebdd6ab](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon/commit/c5030438b37833b7ec43029fd3a2a57c5ebdd6ab)
 
 ---
 
